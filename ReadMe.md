@@ -1,7 +1,7 @@
 # FUNCTIONAL LOOPS
 
-### Simple Version
+1. Simple Version
 
-### Using Material UI in React
+2. Using Material UI in React
 
  More will be added, just the beginning. 
