@@ -1,4 +1,8 @@
-/* 
+/* CODE */
+{[...Array(11)].map((e, i) => (<MenuItem value={i} key={i}>{i}</MenuItem>)).slice(1)}
+
+
+/* RESULT
 <MenuItem value={1}>1</MenuItem>
 <MenuItem value={2}>2</MenuItem>
 <MenuItem value={3}>3</MenuItem>
@@ -12,5 +16,3 @@
 */
 
 
-/* THIS ONE-LINER DOES THE COMMENTED CODE ABOVE */
-{[...Array(11)].map((e, i) => (<MenuItem value={i} key={i}>{i}</MenuItem>)).slice(1)}
