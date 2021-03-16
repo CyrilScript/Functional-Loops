@@ -1,4 +1,4 @@
-# FUNCTIONAL LOOP
+# FUNCTIONAL LOOPS
 
 ### Simple Version
 
