@@ -6,5 +6,5 @@
 
 
 //Count to 10 in an Array
-{[...Array(10)].map((e, i) => i)}
+{[...Array(11)].map((e, i) => i)}
 //Result => [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
